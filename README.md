@@ -25,7 +25,7 @@
 
 1. Склонируйте этот репозиторий:
    ```bash
-   git clone <https://github.com/oyumly/pindie-app>
+   git clone https://github.com/oyumly/pindie-app.git
    ```
 2. Откройте папку проекта и установите зависимости:
    ```bash
